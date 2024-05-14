@@ -12,7 +12,6 @@ Afin de comprendre et accéder au site du Garage V. Parrot, nous vous présenton
 - **Présenter les services** : Affichage clair des services de réparation
 - **Définir les horaires d’ouverture** : Consultation des horaires d'ouverture du garage
 - **Exposer les voitures d'occasion** : Présentation des voitures d'occasion avec des détails techniques et des images
-- **Recueillir les témoignages des clients** : Section pour les témoignages clients
 
 ## Technologies utilisées
 
@@ -32,6 +31,6 @@ Le projet est déployée sur O2Switch. Pour déployer, suivez les instructions c
 
 ## Fait par
 
-- Caroline GLAZ
-- Elyes
-- Sarah LADJOUI
+- Alicia
+- Emmanuel Vijay Arun
+- Aldryc Burtz
